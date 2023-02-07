@@ -1,0 +1,11 @@
+{
+  "name": "landing-page-template",
+  "scripts": {
+    "test": "node node_modules/node-qunit-phantomjs/bin/node-qunit-phantomjs tests/allTests.html"
+  },
+  "devDependencies": {
+    "qunitjs": "^2.4.0",
+    "sinon": "^4.0.1",
+    "node-qunit-phantomjs": "^2.1.1"
+  }
+}
